@@ -10,25 +10,5 @@ author:
   name: haukaijian
   email: 1394891389@qq.com
 
-# 社交链接
-minima:
-  social_links:
-   wechat:houkaijian200588
-    # linkedin: username
-    # rss: rss
 
-# 导航栏
-header_pages:
-  - about.md
-  - archive.md
 
-# 构建配置
-markdown: kramdown
-highlighter: rouge
-permalink: /:year/:month/:day/:title/
-
-# 插件
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
