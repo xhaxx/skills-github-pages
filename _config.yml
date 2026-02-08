@@ -1,0 +1,34 @@
+# 站点基础信息
+title: haukaijian's Digital Garden
+email: 1394891389@qq.com
+description: >- 
+  学无止境 | Learning never exhausts the mind.
+  记录技术探索与思考的个人空间。
+
+# 作者信息
+author:
+  name: haukaijian
+  email: 1394891389@qq.com
+
+# 社交链接
+minima:
+  social_links:
+   wechat:houkaijian200588
+    # linkedin: username
+    # rss: rss
+
+# 导航栏
+header_pages:
+  - about.md
+  - archive.md
+
+# 构建配置
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+# 插件
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
