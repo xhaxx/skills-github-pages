@@ -1,4 +1,7 @@
 # 站点基础信息
+theme: minima
+
+
 title: haukaijian's Digital Garden
 email: 1394891389@qq.com
 description: >- 
@@ -9,6 +12,7 @@ description: >-
 author:
   name: haukaijian
   email: 1394891389@qq.com
+
 
 
 
